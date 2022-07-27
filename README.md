@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/Felipe-Bernardes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Bernardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Bernardes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 - 👋 Olá, me chamo Felipe Bernardes.
 - 👀 Sou interessado em programação de sites, tanto Front-end ou Back-end.
 - 🌱 Eu estou aprendendo ReactJS e PHP.
