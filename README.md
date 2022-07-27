@@ -7,8 +7,8 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div><br>
-- 👋 Olá, me chamo Felipe Bernardes.
-- 👀 Sou interessado em programação de sites, tanto Front-end ou Back-end.
+- 👋 Olá, me chamo Felipe Bernardes.<br>
+- 👀 Sou interessado em programação de sites, tanto Front-end ou Back-end.<br>
 - 📫 Se você quer me chamar de alguma maneira, mande um email para: felipebernardes458@gmail.com
 
 <!---
